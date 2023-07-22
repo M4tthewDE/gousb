@@ -1,4 +1,4 @@
-module github.com/google/gousb
+module github.com/m4tthewde/gousb
 
 go 1.16
 
